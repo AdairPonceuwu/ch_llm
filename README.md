@@ -15,3 +15,5 @@ docker exec -it ollama bash
 
 
 ---Running a Compose--- docker-compose up
+
+---D: && cd \llm-ch\ch_llm---
