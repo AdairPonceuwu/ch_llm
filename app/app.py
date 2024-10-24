@@ -35,7 +35,7 @@ def main():
     # Topic selection
     topic = st.selectbox(
         "Selecciona un tema:",
-        ["PMD", "PPDUS", "Consulta Ciudadana", "RUTA"],
+        ["PMD", "PPDUS", "Consulta Ciudadana", "RUTA", "Estaciones-Monitoreo"],
     )
     print_log(f"User selected topic: {topic}")
 

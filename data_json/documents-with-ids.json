@@ -1300,5 +1300,68 @@
     "question": "¿Qué unidades de servicio exclusivo tiene la Línea 3 de RUTA?",
     "topic": "RUTA",
     "id": "866637ff"
-  }
+  }, 
+  {
+    "text": "La estación de monitoreo BINE ha registrado consistentemente los niveles más altos de contaminación en varios contaminantes",
+    "section": "Contaminacion",
+    "question": "¿Cuál es la estación de monitoreo de Puebla que ha registrado consistentemente los niveles más altos de contaminación?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "bcd3f3a4"
+},
+{
+    "text": "Sí, hay diferencias significativas en los niveles de contaminantes entre las estaciones de monitoreo NINFAS y BINE.",
+    "section": "Contaminacion",
+    "question": "¿Hay diferencias significativas en los niveles de contaminantes entre las estaciones?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "824909ea"
+},
+{
+    "text": "Parece que se puede detectar cierta estacionalidad en los datos de contaminación en ambas estaciones de monitoreo de Puebla, aunque varía según el contaminante",
+    "section": "Contaminacion",
+    "question": "¿Se ha detectado algun tipo de estacionalidad en los datos de contaminación en ambas estaciones de puebla?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "ac9791cd"
+},
+{
+    "text": "En la estación NINFAS, la concentración de PM10 se mantiene relativamente estable durante las próximas horas, con un ligero descenso que se estabiliza alrededor de 83.4 µg/m³.",
+    "section": "Contaminacion",
+    "question": "¿Cuál es la previsión de los niveles de PM10 y PM2.5 para los próximas hora según el modelo ARIMA?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "778619ad"
+},
+{
+    "text": "Contaminantes específicos, Temperatura, Factores antropogénicos ",
+    "section": "Contaminacion",
+    "question": "¿Qué variables son más importantes para predecir la calidad del aire en Puebla?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "369ca28f"
+}, 
+{
+    "text": "La contaminación por ozono (O3) en Puebla ha aumentado notablemente en los últimos cuatro",
+    "section": "Contaminacion",
+    "question": "¿Cómo ha evolucionado la contaminación por ozono (O3) en la ciudad de Puebla durante los últimos cuatro años?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "6f6f9d7b"
+},
+{
+    "text": "En los últimos cuatro años, los meses con mayor concentración de dióxido de nitrógeno (NO2) han sido: Enero y Febrero",
+    "section": "Contaminacion",
+    "question": "¿Cuáles han sido los meses con mayor concentración de dióxido de nitrógeno (NO2) en los últimos cuatro años?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "c464950b"
+},
+{
+    "text": "Si los niveles de contaminación en Puebla continúan la tendencia actual al alza, las consecuencias para la salud pública podrían ser significativas",
+    "section": "Contaminacion",
+    "question": "¿Cómo podría afectar la calidad del aire de Puebla en la salud pública si los niveles de contaminación siguen la tendencia actual?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "19f7c538"
+}, 
+{
+    "text": "Los días del año que presentan mayor riesgo de contaminación en Puebla generalmente coinciden con: Invierno (Noviembre a Febrero)",
+    "section": "Contaminacion",
+    "question": "¿Qué días del año presentan mayor riesgo de contaminación?",
+    "topic": "Estaciones-Monitoreo",
+    "id": "393cc7a5"
+}
 ]
